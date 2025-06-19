@@ -1,0 +1,4 @@
+SELECT *
+FROM sys.fn_get_audit_file('D:\SQLAudits\AdventureWorks2022Audit_9290E345-40DC-491E-BAAE-E5D8D259E754_0_133898732858930000.sqlaudit',
+	NULL, 
+	NULL);
