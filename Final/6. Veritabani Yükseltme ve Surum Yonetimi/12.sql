@@ -1,0 +1,1 @@
+DROP TRIGGER trg_DDL_Change_Log ON DATABASE;
